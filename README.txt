@@ -1,9 +1,10 @@
 Welcome to fomo! We love social media so much we made a game out of it!
 
-To play, open the processing file titled "FOMO6" and click the play ">" button near the upper left corner.
+To play, open the processing file titled "FOMO4" and click the "play" button near the upper left corner. 
+If you don't have processing, go to https://www.openprocessing.org/sketch/394648.
 
 The game may take a few seconds to load. 
-Once the homepage appears, please allow a few seconds for the game to finish loading before pressing SPACE to start the game.
+Once the homepage appears, please allow 5-10 seconds for the game to finish loading before pressing SPACE to start the game.
 If the spacebar does not work initially, try pressing the "play" button again.
 
 Click on the thumbs up facebook 'like' icons with the cursor to collect "likes". 
